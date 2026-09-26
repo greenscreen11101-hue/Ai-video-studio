@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio",
+  "description": "Automated AI video creation studio from scripts with multi-provider AI, stock media search, voiceover, subtitles, timeline editor, and multi-track rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
